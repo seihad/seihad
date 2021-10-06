@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seihad
-- 👀 I’m interested in data-oriented projects
+- 👀 I’m interested in big data projects
 - 🌱 I’m currently learning data engineering
 - 📫 How to reach me -> seil.hadiward@gmail.com
 
